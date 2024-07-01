@@ -25,3 +25,8 @@ sudo dpkg -i gconf2_3.2.6-8_amd64.deb
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 
+####WPS-Office
+wget https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/linux/11719/wps-office_11.1.0.11719.XA_amd64.deb
+sudo dpkg -i wps-office_11.1.0.11719.XA_amd64.deb
+
+
