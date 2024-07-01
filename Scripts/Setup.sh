@@ -20,3 +20,8 @@ sudo dpkg -i libgconf-2-4_3.2.6-8_amd64.deb
 sudo dpkg -i libldap-2.5-0_2.5.13+dfsg-5_amd64.deb 
 sudo dpkg -i gconf-service_3.2.6-8_amd64.deb 
 sudo dpkg -i gconf2_3.2.6-8_amd64.deb 
+
+####Googe-Chrome
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+
